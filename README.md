@@ -1,2 +1,1 @@
-# hardware
-CivicAlert Hardware Design Repository
+# CivicAlert Hardware Design Repository

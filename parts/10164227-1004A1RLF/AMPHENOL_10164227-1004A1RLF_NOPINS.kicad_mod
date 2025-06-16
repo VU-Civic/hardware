@@ -1,0 +1,116 @@
+(footprint "AMPHENOL_10164227-1004A1RLF_NOPINS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -8.075 -2.885 0)
+		(layer "F.SilkS")
+		(uuid "32a90596-970c-44b2-bc18-a1e62730a165")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AMPHENOL_10164227-1004A1RLF_NOPINS"
+		(at 5.895 2.865 0)
+		(layer "F.Fab")
+		(uuid "e9cc8e0c-5736-475c-a19a-5603cf27f850")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22806edc-980a-4948-8f09-1f097c5b6fb6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7dfb823-bb18-4599-a49a-e3e12c94bd45")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 9.8 2.5)
+		(end 9.9 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7d77e651-3e9b-43b6-bf81-2ace4b04bc64")
+	)
+	(fp_line
+		(start -11.3 -1.5)
+		(end -11.3 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd139529-83fa-4355-8d4d-4d2ed0f372a0")
+	)
+	(fp_line
+		(start -11.3 1.5)
+		(end 11.3 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c6a28a1-e82c-42b5-bd9f-f8fec5306497")
+	)
+	(fp_line
+		(start 11.3 -1.5)
+		(end -11.3 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab5cd8c7-67e1-4ad0-8497-4f87cb5494e1")
+	)
+	(fp_line
+		(start 11.3 1.5)
+		(end 11.3 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d410cce-2b62-45cf-ba71-f535344a3a44")
+	)
+	(fp_circle
+		(center 9.8 2.5)
+		(end 9.9 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e1c10d3b-bd21-4aca-a18f-cb2010c57fed")
+	)
+	(embedded_fonts no)
+)

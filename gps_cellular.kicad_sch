@@ -9947,7 +9947,7 @@
 	)
 	(global_label "RPI_NPWR_OFF"
 		(shape input)
-		(at 144.78 186.69 180)
+		(at 132.08 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9957,7 +9957,7 @@
 		)
 		(uuid "475f0512-a28a-43a4-b9bb-99bc39c84b70")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.8852 186.69 0)
+			(at 115.1852 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9991,7 +9991,7 @@
 	)
 	(global_label "GPS_TIMEPULSE"
 		(shape input)
-		(at 144.78 184.15 180)
+		(at 132.08 184.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10001,7 +10001,7 @@
 		)
 		(uuid "54f1614f-6019-41d7-96b3-d2805afe21ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.9178 184.15 0)
+			(at 114.2178 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10101,7 +10101,7 @@
 	)
 	(global_label "GPS_NRESET"
 		(shape input)
-		(at 144.78 179.07 180)
+		(at 132.08 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10111,7 +10111,7 @@
 		)
 		(uuid "89770173-27f5-4a4c-8e07-a5676e757e84")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.0021 179.07 0)
+			(at 117.3021 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10123,7 +10123,7 @@
 	)
 	(global_label "GPS_TIME_TRIGGER"
 		(shape input)
-		(at 144.78 181.61 180)
+		(at 132.08 181.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10133,7 +10133,7 @@
 		)
 		(uuid "8d389121-4e43-4aba-b08d-8e0d1f45cac8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.1359 181.61 0)
+			(at 111.4359 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10233,7 +10233,7 @@
 	)
 	(global_label "GPS_PWR_ON"
 		(shape input)
-		(at 144.78 176.53 180)
+		(at 132.08 176.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10243,7 +10243,7 @@
 		)
 		(uuid "b5efed37-291d-4f12-9ef9-fcce1611be7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4577 176.53 0)
+			(at 116.7577 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11195,7 +11195,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 181.61 270)
+		(at 132.08 181.61 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -11203,7 +11203,7 @@
 		(dnp no)
 		(uuid "1cbfc5fa-120c-47f5-b3e2-775e8593016a")
 		(property "Reference" "TP3"
-			(at 149.606 181.61 90)
+			(at 136.906 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11212,7 +11212,7 @@
 			)
 		)
 		(property "Value" "GPS_TRIG"
-			(at 154.686 181.61 90)
+			(at 141.986 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11221,7 +11221,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 144.78 186.69 0)
+			(at 132.08 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11230,7 +11230,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 186.69 0)
+			(at 132.08 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11239,7 +11239,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 181.61 0)
+			(at 132.08 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11248,7 +11248,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.78 181.61 0)
+			(at 132.08 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12073,7 +12073,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 179.07 270)
+		(at 132.08 179.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -12081,7 +12081,7 @@
 		(dnp no)
 		(uuid "37e079cb-5e83-4a49-ab2a-eee7be1f7764")
 		(property "Reference" "TP2"
-			(at 149.606 179.07 90)
+			(at 136.906 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12090,7 +12090,7 @@
 			)
 		)
 		(property "Value" "GPS_nRST"
-			(at 154.686 179.07 90)
+			(at 141.986 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12099,7 +12099,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 144.78 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12108,7 +12108,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12117,7 +12117,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 179.07 0)
+			(at 132.08 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +12126,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.78 179.07 0)
+			(at 132.08 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13027,7 +13027,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 186.69 270)
+		(at 132.08 186.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -13035,7 +13035,7 @@
 		(dnp no)
 		(uuid "62ff2ecc-8612-462e-a867-56573dff8d8f")
 		(property "Reference" "TP8"
-			(at 149.606 186.69 90)
+			(at 136.906 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13044,7 +13044,7 @@
 			)
 		)
 		(property "Value" "RPI_nOFF"
-			(at 154.686 186.69 90)
+			(at 141.986 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13053,7 +13053,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 144.78 191.77 0)
+			(at 132.08 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13062,7 +13062,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 191.77 0)
+			(at 132.08 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13071,7 +13071,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 186.69 0)
+			(at 132.08 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13080,7 +13080,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.78 186.69 0)
+			(at 132.08 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13833,7 +13833,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 184.15 270)
+		(at 132.08 184.15 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -13841,7 +13841,7 @@
 		(dnp no)
 		(uuid "737d5913-81ac-44cc-9930-60a2e9640582")
 		(property "Reference" "TP4"
-			(at 149.606 184.15 90)
+			(at 136.906 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13850,7 +13850,7 @@
 			)
 		)
 		(property "Value" "GPS_TP"
-			(at 154.686 184.15 90)
+			(at 141.986 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13859,7 +13859,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 144.78 189.23 0)
+			(at 132.08 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13868,7 +13868,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 189.23 0)
+			(at 132.08 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13877,7 +13877,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13886,7 +13886,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.78 184.15 0)
+			(at 132.08 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14187,81 +14187,6 @@
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609/50f7e6f4-74ef-4126-87be-18568f5f475d"
 					(reference "#PWR084")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 105.41 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "897ebb11-6ff1-45d0-a602-d236f2f158a9")
-		(property "Reference" "TP5"
-			(at 104.14 176.784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GPS_VINT"
-			(at 106.426 179.578 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 110.49 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 105.41 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 105.41 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1fa15c5f-aaf2-49ed-a872-6f5744bb2e47")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/50f7e6f4-74ef-4126-87be-18568f5f475d"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -15682,72 +15607,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 105.41 182.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c25a1efe-a575-4502-9ea3-41292272fed9")
-		(property "Reference" "#PWR0114"
-			(at 105.41 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GPS_VINT"
-			(at 105.41 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 105.41 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 105.41 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5fe70c25-a746-460c-8880-df4292d769da")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/50f7e6f4-74ef-4126-87be-18568f5f475d"
-					(reference "#PWR0114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 63.5 100.33 180)
 		(unit 1)
@@ -16156,7 +16015,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 176.53 270)
+		(at 132.08 176.53 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -16164,7 +16023,7 @@
 		(dnp no)
 		(uuid "d2385fd5-971c-4834-a2fa-c0f46128a6bf")
 		(property "Reference" "TP6"
-			(at 149.606 176.53 90)
+			(at 136.906 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16173,7 +16032,7 @@
 			)
 		)
 		(property "Value" "GPS_PWR"
-			(at 154.686 176.53 90)
+			(at 141.986 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16182,7 +16041,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 144.78 181.61 0)
+			(at 132.08 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16191,7 +16050,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 181.61 0)
+			(at 132.08 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16200,7 +16059,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 176.53 0)
+			(at 132.08 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16209,7 +16068,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 144.78 176.53 0)
+			(at 132.08 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -10270,7 +10270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RPI-CM5:Raspberry-Pi-5-Compute-Module"
+		(property "Footprint" "CivicAlert:RPI-CM5IO"
 			(at 196.85 119.38 0)
 			(effects
 				(font
@@ -11047,7 +11047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "10164227-1004A1RLF:AMPHENOL_10164227-1004A1RLF_NOPINS"
+		(property "Footprint" "CivicAlert:10164227-1004A1RLF"
 			(at 29.21 92.71 0)
 			(effects
 				(font
@@ -11359,7 +11359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RPI-CM5:Raspberry-Pi-5-Compute-Module"
+		(property "Footprint" "CivicAlert:RPI-CM5IO"
 			(at 247.65 114.3 0)
 			(effects
 				(font
@@ -12258,7 +12258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "10164227-1004A1RLF:AMPHENOL_10164227-1004A1RLF_NOPINS"
+		(property "Footprint" "CivicAlert:10164227-1004A1RLF"
 			(at 265.43 92.71 0)
 			(effects
 				(font

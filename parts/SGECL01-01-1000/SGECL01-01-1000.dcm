@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SGECL01-01-1000
-D SIM Cards Global Com eSIM 1K pcs (plan01s)
-K
-F https://www.soracom.io/wp-content/uploads/2024/03/Soracom_Global_Multicarrier_eSIM_Datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

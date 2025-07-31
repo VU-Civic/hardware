@@ -1,0 +1,233 @@
+(footprint "NX3215SA-32_768K-EXS00A-MU0000"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "NX3215SA-32.768K-EXS00A-MU00003")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "73bdb5a6-5953-48cd-9182-3aa732f0f326")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "NX3215SA32768KEXS00AMU00003"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e96cb1e6-f5cf-4559-819f-f79539e9036f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9dedec2a-df94-4d44-8b66-8f923575a25e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "caaf9ac6-07a9-4aee-9b92-77adfae733bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.3 -0.1)
+		(end -2.3 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3207839-954f-43ce-8a89-5f183f7b6665")
+	)
+	(fp_line
+		(start -2.3 0.1)
+		(end -2.3 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d6ba8f0e-2349-4470-bb8f-6f3be1b54930")
+	)
+	(fp_line
+		(start -0.5 -0.75)
+		(end 0.5 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cadae4bb-0293-4a8f-bab1-1f4e9265d4f2")
+	)
+	(fp_line
+		(start -0.5 0.75)
+		(end 0.5 0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "355b7b55-b184-4d1f-80f9-3d4e274d4709")
+	)
+	(fp_arc
+		(start -2.3 -0.1)
+		(mid -2.2 0)
+		(end -2.3 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59064630-aaae-466c-a5f7-56341460ee77")
+	)
+	(fp_arc
+		(start -2.3 0.1)
+		(mid -2.4 0)
+		(end -2.3 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29cc8f08-005c-42a8-93d1-b4248a03ce78")
+	)
+	(fp_line
+		(start -2.75 -1.9)
+		(end 2.75 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6ea5f259-7061-47d8-a844-cee424d778e1")
+	)
+	(fp_line
+		(start -2.75 1.9)
+		(end -2.75 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27b6c6c9-42c1-492e-9762-83cc1fe5a82e")
+	)
+	(fp_line
+		(start 2.75 -1.9)
+		(end 2.75 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6584c519-9a60-4f86-8bd2-24a0a48c2de0")
+	)
+	(fp_line
+		(start 2.75 1.9)
+		(end -2.75 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "83b65143-2c74-498c-8f2d-a32014b1b781")
+	)
+	(fp_line
+		(start -1.6 -0.75)
+		(end 1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b61717da-a75b-4528-bdb0-9e610de2b9fd")
+	)
+	(fp_line
+		(start -1.6 0.75)
+		(end -1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad8eb9d9-0b21-4df3-a8a6-18d9b4589cd5")
+	)
+	(fp_line
+		(start 1.6 -0.75)
+		(end 1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "20cdc70b-5b7a-4d86-826b-8a1cbfbf1345")
+	)
+	(fp_line
+		(start 1.6 0.75)
+		(end -1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db8f1791-c639-4907-b119-c292558a7372")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4bc0fb6b-db15-49d0-b9a0-a9cc1a4412bf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 0)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "28439db3-d8eb-4813-aaf5-d59b1db2214f")
+	)
+	(pad "2" smd rect
+		(at 1.25 0)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1bc91c1d-2fed-46c2-aeb3-c4aa9b46c006")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/part_3d_cads/NX3215SA-32_768K-EXS00A-MU0000.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

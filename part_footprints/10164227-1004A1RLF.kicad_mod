@@ -1,0 +1,127 @@
+(footprint "10164227-1004A1RLF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -8.075 -2.885 0)
+		(layer "F.SilkS")
+		(uuid "9508add9-04fc-470f-84ca-d43602de5e56")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AMPHENOL_10164227-1004A1RLF"
+		(at 5.895 2.865 0)
+		(layer "F.Fab")
+		(uuid "8b594f99-0bdd-479e-a83d-3156148dec9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e284459-aa25-459e-947d-7cf092b4fdfe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3bda088e-103d-4ba6-aa07-81b145c56032")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 9.8 2.5)
+		(end 9.9 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6afad32a-21ee-4d30-9292-709415ca2209")
+	)
+	(fp_line
+		(start -11.3 -1.5)
+		(end -11.3 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "46649314-5ed0-41d9-b9c5-c0bdafe89233")
+	)
+	(fp_line
+		(start -11.3 1.5)
+		(end 11.3 1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7121ba35-aa44-4f1d-bd21-21eced3fc4d1")
+	)
+	(fp_line
+		(start 11.3 -1.5)
+		(end -11.3 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4f158f7e-a544-4443-8ccd-81b81944d4e6")
+	)
+	(fp_line
+		(start 11.3 1.5)
+		(end 11.3 -1.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec27fdf5-6949-4ebc-ad56-93c91520b401")
+	)
+	(fp_circle
+		(center 9.8 2.5)
+		(end 9.9 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6c1dfeb1-5401-4fd3-8535-6a573e5d5d39")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/part_3d_cads/10164227-1004A1RLF.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

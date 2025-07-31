@@ -8383,7 +8383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TS3USB221RSER:TS3USB221RSER"
+		(property "Footprint" "CivicAlert:TS3USB221RSER"
 			(at 187.96 147.32 0)
 			(effects
 				(font
@@ -8871,7 +8871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LS38G2F-T:SW-SMD_4P-L3.3-W3.1_LS38G2-T"
+		(property "Footprint" "CivicAlert:LS38G2F-T"
 			(at 154.94 63.5 0)
 			(effects
 				(font
@@ -8970,7 +8970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LTST-C193TBKT-5A:LED_LTST-C_LTO"
+		(property "Footprint" "CivicAlert:LTST-C193TBKT-5A"
 			(at 57.15 162.56 0)
 			(effects
 				(font
@@ -9505,7 +9505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "009159010061911:009159010061911"
+		(property "Footprint" "CivicAlert:009159010061911"
 			(at 226.06 25.4 0)
 			(effects
 				(font
@@ -10058,7 +10058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "STM32H745ZIT6:LQFP-144"
+		(property "Footprint" "CivicAlert:STM32H745ZIT6"
 			(at 45.72 35.56 0)
 			(effects
 				(font
@@ -10851,7 +10851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "NSPM2051MUT5G:DIODFN160X100X55-2N"
+		(property "Footprint" "CivicAlert:NSPM2051MUT5G"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -10960,7 +10960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESDALC6V1W5:SOT65P210X110-5N"
+		(property "Footprint" "CivicAlert:ESDALC6V1W5"
 			(at 203.2 150.8 0)
 			(effects
 				(font
@@ -11397,7 +11397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BC847CE6327HTSA1:PG-SOT23-3-1_INF"
+		(property "Footprint" "CivicAlert:BC847CE6327HTSA1"
 			(at 49.53 177.8 0)
 			(effects
 				(font
@@ -12147,7 +12147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESDALC6V1W5:SOT65P210X110-5N"
+		(property "Footprint" "CivicAlert:ESDALC6V1W5"
 			(at 245.11 150.8 0)
 			(effects
 				(font
@@ -13058,7 +13058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATX-H11-F-25.000MHZ-F25-T:ATXH11F25000MHzF25T"
+		(property "Footprint" "CivicAlert:ATX-H11-F-25_000MHz-F25-T"
 			(at 113.03 -33.96 0)
 			(effects
 				(font

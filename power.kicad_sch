@@ -7653,7 +7653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NCP186AMX390TAG:XDFN8_1P7X1P3_ONS"
+		(property "Footprint" "CivicAlert:NCP186AMX390TAG"
 			(at 105.41 170.18 0)
 			(effects
 				(font
@@ -8305,7 +8305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NCP186BMX185TAG:XDFN8_1P7X1P3_ONS"
+		(property "Footprint" "CivicAlert:NCP186BMX185TAG"
 			(at 105.41 123.19 0)
 			(effects
 				(font
@@ -9341,7 +9341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NCP186BMX185TAG:XDFN8_1P7X1P3_ONS"
+		(property "Footprint" "CivicAlert:NCP186BMX185TAG"
 			(at 227.33 139.7 0)
 			(effects
 				(font
@@ -9531,7 +9531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LTST-C170KRKT:LED_LTST-C170KRKT_LTO"
+		(property "Footprint" "CivicAlert:LTST-C170KRKT"
 			(at 54.61 54.61 0)
 			(effects
 				(font
@@ -12312,7 +12312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLM18EG221SN1D:BEADC1608X95N"
+		(property "Footprint" "CivicAlert:FCM1608KF-601T03"
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -12998,7 +12998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "STM32H745ZIT6:LQFP-144"
+		(property "Footprint" "CivicAlert:STM32H745ZIT6"
 			(at 194.31 26.67 0)
 			(effects
 				(font

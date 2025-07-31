@@ -5929,7 +5929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ICM-20948:QFN40P300X300X105-25N-D"
+		(property "Footprint" "CivicAlert:ICM-20948"
 			(at 15.57 172.72 0)
 			(effects
 				(font
@@ -6403,7 +6403,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "NX3215SA-32.768K:NX3215SA32768KEXS00AMU00003"
+		(property "Footprint" "CivicAlert:NX3215SA-32_768K-EXS00A-MU0000"
 			(at 82.88 69.85 0)
 			(effects
 				(font
@@ -7523,7 +7523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "STM32H745ZIT6:LQFP-144"
+		(property "Footprint" "CivicAlert:STM32H745ZIT6"
 			(at 110.49 27.94 0)
 			(effects
 				(font

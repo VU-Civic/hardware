@@ -10700,7 +10700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PESD0402-140:PESD0402-140_LTF"
+		(property "Footprint" "CivicAlert:PESD0402-140_LTF"
 			(at 219.71 67.31 0)
 			(effects
 				(font
@@ -10875,7 +10875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLM18EG221SN1D:BEADC1608X95N"
+		(property "Footprint" "CivicAlert:BLM18EG221SN1D"
 			(at 196.85 149.86 0)
 			(effects
 				(font
@@ -11131,7 +11131,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PESD0402-140:PESD0402-140_LTF"
+		(property "Footprint" "CivicAlert:PESD0402-140_LTF"
 			(at 217.17 80.01 0)
 			(effects
 				(font
@@ -11375,7 +11375,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "T520B337M006ATE040:CAPMP3.7X2.8_2N_KEM"
+		(property "Footprint" "CivicAlert:T520B337M006ATE040"
 			(at 257.81 149.86 0)
 			(effects
 				(font
@@ -11465,7 +11465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LTST-C193TBKT-5A:LED_LTST-C_LTO"
+		(property "Footprint" "CivicAlert:LTST-C193TBKT-5A"
 			(at 53.34 39.37 0)
 			(effects
 				(font
@@ -11553,7 +11553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0788000001:MOLEX_0788000001"
+		(property "Footprint" "CivicAlert:0788000001"
 			(at 238.76 40.64 0)
 			(effects
 				(font
@@ -11831,7 +11831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BC847CE6327HTSA1:PG-SOT23-3-1_INF"
+		(property "Footprint" "CivicAlert:BC847CE6327HTSA1"
 			(at 48.26 180.34 0)
 			(effects
 				(font
@@ -12549,7 +12549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RECE.20279.001E.01:CON3_RECE.20279.001E.01_TAL"
+		(property "Footprint" "CivicAlert:RECE.20279.001E.01"
 			(at 60.96 106.68 0)
 			(effects
 				(font
@@ -12771,7 +12771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SGECL01-01-1000:SON127P600X500X80-9N-D"
+		(property "Footprint" "CivicAlert:SGECL01-01-1000"
 			(at 262.89 199.06 0)
 			(effects
 				(font
@@ -14655,7 +14655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LENA-R8001M10-00C:MOD100_LENA-R8_UBL"
+		(property "Footprint" "CivicAlert:LENA-R8001M10-00C"
 			(at 111.76 27.94 0)
 			(effects
 				(font
@@ -15322,7 +15322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RECE.20279.001E.01:CON3_RECE.20279.001E.01_TAL"
+		(property "Footprint" "CivicAlert:RECE.20279.001E.01"
 			(at 210.82 142.24 0)
 			(effects
 				(font
@@ -15778,7 +15778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PESD0402-140:PESD0402-140_LTF"
+		(property "Footprint" "CivicAlert:PESD0402-140_LTF"
 			(at 260.35 53.34 0)
 			(effects
 				(font
@@ -16117,7 +16117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "BC847CE6327HTSA1:PG-SOT23-3-1_INF"
+		(property "Footprint" "CivicAlert:BC847CE6327HTSA1"
 			(at 45.72 54.61 0)
 			(effects
 				(font
@@ -16627,7 +16627,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PESD0402-140:PESD0402-140_LTF"
+		(property "Footprint" "CivicAlert:PESD0402-140_LTF"
 			(at 222.25 54.61 0)
 			(effects
 				(font
@@ -16960,7 +16960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LTST-C193TBKT-5A:LED_LTST-C_LTO"
+		(property "Footprint" "CivicAlert:LTST-C193TBKT-5A"
 			(at 55.88 165.1 0)
 			(effects
 				(font

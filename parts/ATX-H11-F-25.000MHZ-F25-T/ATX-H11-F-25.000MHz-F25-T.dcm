@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ATX-H11-F-25.000MHz-F25-T
-D XTAL OSC TCXO 25MHz CMOS
-K
-F https://abracon.com/datasheets/ATX-H12.pdf
-$ENDCMP
-#
-#End Doc Library

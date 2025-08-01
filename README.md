@@ -47,6 +47,10 @@ Original prototype version of the hardware. Expected usage includes:
 * Internal switch automatically routes primary MCU output to correct USB interface depending on the
   presence or absence of a connected Raspberry Pi Compute Module
 * Entire board (including Raspberry Pi) is powered from a 5V USB-C cable
+* Firmware flashing requires an open-ended card edge connector from
+  [Kyocera AVX](https://www.digikey.com/en/products/detail/kyocera-avx/009159010061911/11307835)
+  and an STLink-V3MINIE programmer from
+  [STMicroelectronics](https://www.digikey.com/en/products/detail/stmicroelectronics/STLINK-V3MINIE/16284301)
 
 Major functionality and components are shown below:
 

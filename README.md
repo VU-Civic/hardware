@@ -3,6 +3,11 @@
 This repository contains hardware design files for the CivicAlert sensor device. The design was created
 using [KiCad](https://www.kicad.org/download) and requires v9.0.0 or later to open and edit.
 
+The CivicAlert gunshot sensor is a self-contained PCB which utilizes four audio channels, a digital
+compass and IMU, GNSS satellite data, and a state-of-the-art AI-based classification model to detect
+gunshots in its vicinity. Relevant event information and evidential audio clips can be transferred to
+a cloud server for futher processing using a dedicated cellular-based Internet of Things (IoT) network.
+
 
 ## Getting Started
 

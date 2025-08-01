@@ -7011,13 +7011,13 @@
 		(descr "24 Lead QFN 3.0x3.0x0.9")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC5"
-			(at -3.74 0.59 0)
+			(at -2.73 -0.01 90)
 			(layer "F.SilkS")
 			(uuid "4c39835f-3258-45ab-b912-438c3fc8bc27")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)

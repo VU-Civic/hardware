@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "CivicAlert")
-		(date "2025-03-13")
-		(rev "A")
+		(date "2025-08-19")
+		(rev "B")
 		(company "Vanderbilt University")
 	)
 	(lib_symbols)
@@ -22,7 +22,7 @@
 		(uuid "24291031-ebb5-4167-a7ab-140f9c8bbe2b")
 	)
 	(sheet
-		(at 176.53 71.12)
+		(at 222.25 96.52)
 		(size 26.67 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38,7 +38,7 @@
 		)
 		(uuid "100f165f-7348-4dd9-b954-0528a2efd933")
 		(property "Sheetname" "Audio"
-			(at 176.53 70.4084 0)
+			(at 222.25 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +47,7 @@
 			)
 		)
 		(property "Sheetfile" "audio.kicad_sch"
-			(at 176.53 105.9946 0)
+			(at 222.25 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,13 +58,13 @@
 		(instances
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
-					(page "6")
+					(page "12")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 115.57 71.12)
+		(at 135.89 96.52)
 		(size 26.67 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -79,8 +79,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "29cd0f47-4cfa-42dc-bfae-ee1dcf2d99fb")
-		(property "Sheetname" "MCU + IMU"
-			(at 115.57 70.4084 0)
+		(property "Sheetname" "IMU"
+			(at 135.89 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88,8 +88,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "mcu_imu.kicad_sch"
-			(at 115.57 105.9946 0)
+		(property "Sheetfile" "imu.kicad_sch"
+			(at 135.89 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -100,13 +100,13 @@
 		(instances
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
-					(page "4")
+					(page "10")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 85.09 71.12)
+		(at 27.94 46.99)
 		(size 26.67 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -120,51 +120,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "50f7e6f4-74ef-4126-87be-18568f5f475d")
-		(property "Sheetname" "GPS + Cellular"
-			(at 85.09 70.4084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "gps_cellular.kicad_sch"
-			(at 85.09 105.9946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 54.61 71.12)
-		(size 26.67 34.29)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "dac8bdcf-a09b-412a-825e-201db4363769")
+		(uuid "3b71ae48-9218-424b-9e36-6cce6ae07d5f")
 		(property "Sheetname" "Power"
-			(at 54.61 70.4084 0)
+			(at 27.94 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -173,7 +131,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 54.61 105.9946 0)
+			(at 27.94 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -190,7 +148,7 @@
 		)
 	)
 	(sheet
-		(at 146.05 71.12)
+		(at 179.07 96.52)
 		(size 26.67 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -204,9 +162,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "f1627d13-9b14-4928-99f6-c027237993a1")
-		(property "Sheetname" "USB + Debug"
-			(at 146.05 70.4084 0)
+		(uuid "50f7e6f4-74ef-4126-87be-18568f5f475d")
+		(property "Sheetname" "GPS + Cellular"
+			(at 179.07 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -214,8 +172,176 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "usb_debug.kicad_sch"
-			(at 146.05 105.9946 0)
+		(property "Sheetfile" "gps_cellular.kicad_sch"
+			(at 179.07 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 45.72)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7159d5c7-8d45-4629-b630-8fd7bd6f0fc3")
+		(property "Sheetname" "SD Card"
+			(at 200.66 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sd_card.kicad_sch"
+			(at 200.66 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 46.99)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "848c734b-5721-4fc9-aed5-8e152bafb038")
+		(property "Sheetname" "AI System"
+			(at 71.12 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ai_system.kicad_sch"
+			(at 71.12 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 46.99)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8827f1a2-954a-4da6-a574-32f642fedad6")
+		(property "Sheetname" "AI Clocks and GPIO"
+			(at 114.3 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ai_gpio.kicad_sch"
+			(at 114.3 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 45.72)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d7c1692-40e3-4aa0-af0a-baea93d7a4da")
+		(property "Sheetname" "AI Memory + Debug"
+			(at 157.48 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ai_memory.kicad_sch"
+			(at 157.48 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -232,7 +358,7 @@
 		)
 	)
 	(sheet
-		(at 207.01 71.12)
+		(at 49.53 96.52)
 		(size 26.67 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -246,9 +372,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "fdf32347-9186-4566-934a-ef2b49d46941")
-		(property "Sheetname" "Raspberry Pi"
-			(at 207.01 70.4084 0)
+		(uuid "939e6d13-e1bc-430a-b614-2793fec8bba0")
+		(property "Sheetname" "MCU Clocks and GPIO"
+			(at 49.53 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -256,8 +382,50 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "rpi.kicad_sch"
-			(at 207.01 105.9946 0)
+		(property "Sheetfile" "mcu_clocks_gpio.kicad_sch"
+			(at 49.53 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 45.72)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dac8bdcf-a09b-412a-825e-201db4363769")
+		(property "Sheetname" "MCU System"
+			(at 243.84 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_system.kicad_sch"
+			(at 243.84 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -269,6 +437,48 @@
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 96.52)
+		(size 26.67 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f1627d13-9b14-4928-99f6-c027237993a1")
+		(property "Sheetname" "MCU Debug + USB"
+			(at 93.98 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_debug_usb.kicad_sch"
+			(at 93.98 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609"
+					(page "9")
 				)
 			)
 		)

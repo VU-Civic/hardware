@@ -123,16 +123,15 @@
 		(layer "F.SilkS")
 		(uuid "8b4551bd-cbc9-4027-8542-25380977195b")
 	)
-	(fp_circle
-		(center 2.3368 0)
-		(end 2.7178 0)
+	(fp_line
+		(start 1.81 -2.65)
+		(end 3.13 -1.33)
 		(stroke
-			(width 0.508)
+			(width 0.3)
 			(type solid)
 		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "7e0d12db-59c5-44fe-84e1-2c8e9e24956d")
+		(layer "F.SilkS")
+		(uuid "07f40479-c6d3-4657-88bf-bcbe0a17cd30")
 	)
 	(fp_line
 		(start -2.249701 -1.3843)
@@ -334,16 +333,15 @@
 		(layer "F.Fab")
 		(uuid "0cc7025d-d271-4dee-a3e8-7124e338d2c1")
 	)
-	(fp_circle
-		(center 1.475 -1.905)
-		(end 1.856 -1.905)
+	(fp_line
+		(start 1.81 -2.65)
+		(end 3.13 -1.33)
 		(stroke
-			(width 0.508)
+			(width 0.3)
 			(type solid)
 		)
-		(fill no)
 		(layer "F.Fab")
-		(uuid "53eb0821-a19b-4c42-9780-41c3b985bbf6")
+		(uuid "8fb8e008-5c73-4b75-8e1a-dfff976ca661")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)

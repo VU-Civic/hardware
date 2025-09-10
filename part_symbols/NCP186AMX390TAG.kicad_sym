@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XDFN8_1P7X1P3_ONS"
+		(property "Footprint" "CivicAlert:NCP186AMX390TAG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -35,7 +35,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "NCP186AMX390TAG"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -45,21 +45,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "NCP186AMX390TAG"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "ki_keywords" "NCP186AMX390TAG"
@@ -148,7 +140,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 0 -7.62 0)
 				(length 7.62)
 				(name "FB/ADJ"

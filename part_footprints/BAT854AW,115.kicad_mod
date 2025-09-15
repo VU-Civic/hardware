@@ -395,7 +395,7 @@
 		(uuid "a3b29f88-b222-4110-a92d-47397d168a31")
 	)
 	(fp_text user "*"
-		(at -1.37 -1.53 0)
+		(at -1.43 -1.15 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "315675bf-3b52-4223-b2e6-c45c28e2a129")
@@ -419,7 +419,7 @@
 		)
 	)
 	(fp_text user "*"
-		(at -1.37 -1.53 0)
+		(at -1.43 -1.15 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "a36f0dce-d629-41ab-b980-6eb27cf1b5d7")

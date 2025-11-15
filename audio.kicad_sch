@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "CivicAlert")
-		(date "2025-08-19")
-		(rev "B")
+		(date "2025-11-13")
+		(rev "C")
 		(company "Vanderbilt University")
 	)
 	(lib_symbols
@@ -3757,7 +3757,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 144.78 163.322 90)
 			(effects
 				(font
@@ -4810,7 +4810,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 125.73 163.322 90)
 			(effects
 				(font

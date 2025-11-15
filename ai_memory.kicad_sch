@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "CivicAlert")
-		(date "2025-08-19")
-		(rev "B")
+		(date "2025-11-13")
+		(rev "C")
 		(company "Vanderbilt University")
 	)
 	(lib_symbols

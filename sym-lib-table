@@ -35,4 +35,5 @@
   (lib (name "STM32N647L0H3Q")(type "KiCad")(uri "${KIPRJMOD}/part_symbols/STM32N647L0H3Q.kicad_sym")(options "")(descr ""))
   (lib (name "T520B337M006ATE040")(type "KiCad")(uri "${KIPRJMOD}/part_symbols/T520B337M006ATE040.kicad_sym")(options "")(descr ""))
   (lib (name "TPS22919DCKR")(type "KiCad")(uri "${KIPRJMOD}/part_symbols/TPS22919DCKR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4730-GF-A")(type "KiCad")(uri "${KIPRJMOD}/part_symbols/USB4730-GF-A.kicad_sym")(options "")(descr ""))
 )

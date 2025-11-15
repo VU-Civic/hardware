@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -125,12 +125,12 @@
         "max_error": 0.005,
         "min_clearance": 0.0762,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0762,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.1524,
         "min_hole_to_hole": 0.3302,
-        "min_microvia_diameter": 0.2,
-        "min_microvia_drill": 0.1,
+        "min_microvia_diameter": 0.254,
+        "min_microvia_drill": 0.1016,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
@@ -146,8 +146,8 @@
         {
           "td_onpthpad": false,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": false,
-          "td_ontrackend": true,
+          "td_onsmdpad": true,
+          "td_ontrackend": false,
           "td_onvia": false
         }
       ],
@@ -501,9 +501,9 @@
       "idf": "",
       "netlist": "",
       "plot": "/Users/hedgecrw/Downloads/CivicAlert/",
-      "pos_files": "",
+      "pos_files": "/Users/hedgecrw/Downloads/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../../Users/hedgecrw/Downloads/CivicAlert.step",
       "svg": "",
       "vrml": ""
     },
@@ -694,6 +694,10 @@
     [
       "100f165f-7348-4dd9-b954-0528a2efd933",
       "Audio"
+    ],
+    [
+      "393cfe87-766f-46a9-99f5-3fe9f6a91a93",
+      "Structural"
     ]
   ],
   "text_variables": {}

@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "USB4730-GF-A_REVA"
+	(symbol "USB4730-GF-A"
 		(pin_names
 			(offset 1.016)
 		)
@@ -18,7 +18,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "USB4730-GF-A_REVA"
+		(property "Value" "USB4730-GF-A"
 			(at -12.7 -16.002 0)
 			(effects
 				(font
@@ -27,7 +27,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "USB4730-GF-A_REVA:GCT_USB4730-GF-A_REVA"
+		(property "Footprint" "CivicAlert:USB4730-GF-A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -46,7 +46,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB4730-GF-A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55,17 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Global Connector Technology"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.66mm"
+		(property "Manufacturer" "Global Connector Technology"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75,117 +65,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=eda"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=snap"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "USB4730-GF-A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Global Connector Technology"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "USB4730-GF-A"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(symbol "USB4730-GF-A_REVA_0_0"
+		(symbol "USB4730-GF-A_0_0"
 			(rectangle
 				(start -12.7 -15.24)
 				(end 12.7 12.7)
@@ -453,7 +333,7 @@
 				)
 			)
 		)
-		(symbol "USB4730-GF-A_REVA_1_0"
+		(symbol "USB4730-GF-A_1_0"
 			(pin power_out line
 				(at -17.78 10.16 0)
 				(length 5.08)

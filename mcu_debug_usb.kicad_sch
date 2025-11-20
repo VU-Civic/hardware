@@ -694,7 +694,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "USB4730-GF-A:USB4730-GF-A_REVA"
+		(symbol "USB4730-GF-A:USB4730-GF-A"
 			(pin_names
 				(offset 1.016)
 			)
@@ -710,7 +710,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "USB4730-GF-A_REVA"
+			(property "Value" "USB4730-GF-A"
 				(at -12.7 -16.002 0)
 				(effects
 					(font
@@ -719,7 +719,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "USB4730-GF-A_REVA:GCT_USB4730-GF-A_REVA"
+			(property "Footprint" "CivicAlert:USB4730-GF-A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -738,7 +738,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "USB4730-GF-A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -747,17 +747,7 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "Global Connector Technology"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "4.66mm"
+			(property "Manufacturer" "Global Connector Technology"
 				(at 0 0 0)
 				(effects
 					(font
@@ -767,117 +757,7 @@
 					(hide yes)
 				)
 			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "USB4730-GF-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Global Connector Technology"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "USB4730-GF-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "USB4730-GF-A_REVA_0_0"
+			(symbol "USB4730-GF-A_0_0"
 				(rectangle
 					(start -12.7 -15.24)
 					(end 12.7 12.7)
@@ -1145,7 +1025,7 @@
 					)
 				)
 			)
-			(symbol "USB4730-GF-A_REVA_1_0"
+			(symbol "USB4730-GF-A_1_0"
 				(pin power_out line
 					(at -17.78 10.16 0)
 					(length 5.08)
@@ -2979,247 +2859,6 @@
 		)
 	)
 	(symbol
-		(lib_id "USB4730-GF-A:USB4730-GF-A_REVA")
-		(at 140.97 125.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4829b7f0-fa75-44dc-b632-5cb8a45f1e1c")
-		(property "Reference" "J1"
-			(at 140.97 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB4730-GF-A_REVA"
-			(at 140.97 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "CivicAlert:USB4730-GF-A"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Global Connector Technology"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "4.66mm"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=eda"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "A"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB4730-GF-A/Global+Connector+Technology/view-part/?ref=snap"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "USB4730-GF-A"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Global Connector Technology"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "USB4730-GF-A"
-			(at 140.97 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "A8"
-			(uuid "29b51e30-8eb4-4822-a90d-7be7fc9f3f6e")
-		)
-		(pin "A1/B12"
-			(uuid "547de51b-5ea2-414a-800d-d00d8eaca70d")
-		)
-		(pin "A7"
-			(uuid "924e9581-0b70-46ba-b7c6-d132c3ec9afd")
-		)
-		(pin "A6"
-			(uuid "7fb883df-0c7a-427f-a6f4-eabfcbf486da")
-		)
-		(pin "SH2"
-			(uuid "f0aeeb6c-2775-4a7d-a579-a262f9f08450")
-		)
-		(pin "A5"
-			(uuid "10b70cbd-0bae-47c4-af74-0c1b22813614")
-		)
-		(pin "B7"
-			(uuid "5ca4dc62-b41d-4c39-a67b-0aedb5b8fc3e")
-		)
-		(pin "SH3"
-			(uuid "7be510a4-4782-447c-bc77-3d1bb4a89648")
-		)
-		(pin "B5"
-			(uuid "bc34c82b-a015-4cb3-b6fd-c889a3c31706")
-		)
-		(pin "B6"
-			(uuid "f686d2c1-99e4-42d7-8f6c-7a6469d0744c")
-		)
-		(pin "SH1"
-			(uuid "dd9651ef-cb4b-4639-9ed4-ff506fe78a78")
-		)
-		(pin "A4/B9"
-			(uuid "998d8c48-61a6-4f6a-bc0d-e192de41c716")
-		)
-		(pin "SH4"
-			(uuid "07eb55f4-b0b7-4a97-b179-e357c8af06ed")
-		)
-		(pin "B4/A9"
-			(uuid "02d2e6e4-dc8b-4234-9983-43c7b004c204")
-		)
-		(pin "B8"
-			(uuid "a7d99a58-b4c6-46b7-9bb9-50740d647ed5")
-		)
-		(pin "B1/A12"
-			(uuid "08241c53-0c68-4519-8c02-8455624be05a")
-		)
-		(instances
-			(project ""
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/f1627d13-9b14-4928-99f6-c027237993a1"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 123.19 44.45 270)
 		(mirror x)
@@ -3418,6 +3057,127 @@
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609/f1627d13-9b14-4928-99f6-c027237993a1"
 					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "USB4730-GF-A:USB4730-GF-A")
+		(at 140.97 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "602380f0-1bd0-4faa-9ceb-1516a89d2f16")
+		(property "Reference" "J1"
+			(at 140.97 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB4730-GF-A"
+			(at 140.97 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CivicAlert:USB4730-GF-A"
+			(at 140.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB4730-GF-A"
+			(at 140.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Global Connector Technology"
+			(at 140.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "B4/A9"
+			(uuid "0986d14b-2e64-4407-94c1-cfb84f3b76b5")
+		)
+		(pin "A4/B9"
+			(uuid "723cc231-956d-4c10-bd5b-ee92648d2862")
+		)
+		(pin "B6"
+			(uuid "a64c8e14-dddf-480e-89fe-093a3527991d")
+		)
+		(pin "B5"
+			(uuid "623d1b59-9008-4f25-a5e8-b3a61f28bcd7")
+		)
+		(pin "B1/A12"
+			(uuid "79fea3ae-7cb8-4181-9e85-b7ca6ae5d7bb")
+		)
+		(pin "B7"
+			(uuid "f0ae5d52-5da5-4309-8c9f-8ee9241fe943")
+		)
+		(pin "B8"
+			(uuid "84a4946b-87e2-46e1-bc0f-76c3cb2715de")
+		)
+		(pin "A1/B12"
+			(uuid "4b89ea8e-0a07-46bc-8231-62690412c771")
+		)
+		(pin "A8"
+			(uuid "7fe310e8-be41-4f9d-aa41-b478056e573c")
+		)
+		(pin "A7"
+			(uuid "167493f9-4cc4-4c68-aa23-7f67a1bdf5f8")
+		)
+		(pin "A6"
+			(uuid "f9a750cb-92b1-4200-b688-62fd115f0ad8")
+		)
+		(pin "A5"
+			(uuid "ef831c58-ff5d-4bde-8282-5c758be322ce")
+		)
+		(pin "SH4"
+			(uuid "e820eb13-bba8-4eeb-b7ea-be1029ba13e9")
+		)
+		(pin "SH3"
+			(uuid "c718a398-19d7-42e9-ad86-31ddff4d25db")
+		)
+		(pin "SH2"
+			(uuid "4f10c53b-a35b-42ed-b28b-58598b146905")
+		)
+		(pin "SH1"
+			(uuid "eda8c797-e32e-474b-883c-7b589d470de4")
+		)
+		(instances
+			(project ""
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609/f1627d13-9b14-4928-99f6-c027237993a1"
+					(reference "J1")
 					(unit 1)
 				)
 			)

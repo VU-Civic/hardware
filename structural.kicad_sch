@@ -320,7 +320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "CivicAlert:MountingHole_2.4mm_M2"
 			(at 166.37 111.76 0)
 			(effects
 				(font
@@ -636,7 +636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "CivicAlert:MountingHole_2.4mm_M2"
 			(at 214.63 111.76 0)
 			(effects
 				(font
@@ -763,7 +763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+		(property "Footprint" "CivicAlert:MountingHole_2.4mm_M2"
 			(at 190.5 111.76 0)
 			(effects
 				(font

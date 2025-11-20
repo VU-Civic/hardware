@@ -274,183 +274,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "IM73D122V01XTMA1:IM73D122V01XTMA1"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 20.32 10.16 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "IM73D122V01XTMA1"
-				(at 20.32 7.62 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "CivicAlert:IM73D122V01XTMA1"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "IM73D122V01XTMA1"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "IM73D122V01XTMA1"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "PG-LLGA-5-2_INF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "IM73D122V01XTMA1_0_1"
-				(rectangle
-					(start 7.62 5.08)
-					(end 33.02 -10.16)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin output line
-					(at 0 0 0)
-					(length 7.62)
-					(name "DATA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -2.54 0)
-					(length 7.62)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 40.64 -5.08 180)
-					(length 7.62)
-					(name "CLOCK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "IM73D122V01XTMA1_1_1"
-				(pin power_in line
-					(at 40.64 0 180)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 40.64 -2.54 180)
-					(length 7.62)
-					(name "LR"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "PCMD3140IRTER:PCMD3140IRTER"
 			(pin_names
 				(offset 0.254)
@@ -906,6 +729,174 @@
 						)
 					)
 					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SPK11R1LM4H-1:SPK11R1LM4H-1"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 20.32 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "SPK11R1LM4H-1"
+				(at 20.32 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CivicAlert:SPK11R1LM4H-1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SPK11R1LM4H-1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SPK11R1LM4H-1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SPK11R1LM4H-1_0_1"
+				(rectangle
+					(start 7.62 5.08)
+					(end 33.02 -10.16)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output line
+					(at 0 0 0)
+					(length 7.62)
+					(name "DATA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 40.64 -5.08 180)
+					(length 7.62)
+					(name "CLOCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SPK11R1LM4H-1_1_1"
+				(pin power_in line
+					(at 40.64 0 180)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 40.64 -2.54 180)
+					(length 7.62)
+					(name "LR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3109,102 +3100,6 @@
 		)
 	)
 	(symbol
-		(lib_id "IM73D122V01XTMA1:IM73D122V01XTMA1")
-		(at 217.17 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2b144db3-7411-4877-8b43-92bda13be14d")
-		(property "Reference" "CH4"
-			(at 237.49 58.42 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "IM73D122V01XTMA1"
-			(at 237.49 60.96 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "CivicAlert:IM73D122V01XTMA1"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "IM73D122V01XTMA1"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IM73D122V01XTMA1"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "IM73D122V01XTMA1"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "101bbdc8-63c0-435a-b8ee-424f6be567fb")
-		)
-		(pin "5"
-			(uuid "060c64bb-7937-4cfb-815f-b0db5ad6f454")
-		)
-		(pin "4"
-			(uuid "913abb37-9ba7-4045-bf35-34da16c9c090")
-		)
-		(pin "1"
-			(uuid "3b0912e1-9dad-4acd-b7fe-b4e455da4f7d")
-		)
-		(pin "2"
-			(uuid "e173c89f-14c7-4dac-9a7d-bfdbfa38a214")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
-					(reference "CH4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 259.08 68.58 90)
 		(mirror x)
@@ -3900,6 +3795,85 @@
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
 					(reference "C108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SPK11R1LM4H-1:SPK11R1LM4H-1")
+		(at 123.19 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c0a61ca-5b6c-4525-9d73-bbcbb7fedd32")
+		(property "Reference" "CH3"
+			(at 143.51 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "SPK11R1LM4H-1"
+			(at 143.51 60.96 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "CivicAlert:SPK11R1LM4H-1"
+			(at 123.19 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SPK11R1LM4H-1"
+			(at 123.19 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "04d507a1-4f51-4cd0-abe8-c55463003ab6")
+		)
+		(pin "5"
+			(uuid "3b4cb62b-677a-411a-9dd3-f89d02aa5fe8")
+		)
+		(pin "3"
+			(uuid "0c715e58-916e-4505-b095-00f3f1558668")
+		)
+		(pin "2"
+			(uuid "7d6a9c47-f6a8-444c-aac9-7c9967c8c81d")
+		)
+		(pin "1"
+			(uuid "6e18ed06-c510-41a4-bcef-3a4b6b10b9a9")
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
+					(reference "CH3")
 					(unit 1)
 				)
 			)
@@ -5091,33 +5065,33 @@
 		)
 	)
 	(symbol
-		(lib_id "IM73D122V01XTMA1:IM73D122V01XTMA1")
-		(at 123.19 68.58 0)
+		(lib_id "SPK11R1LM4H-1:SPK11R1LM4H-1")
+		(at 217.17 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b7ed9c8d-d361-415d-9f99-d55d160304f4")
-		(property "Reference" "CH3"
-			(at 143.51 58.42 0)
+		(uuid "bd8f2fac-13d6-4dcc-aaf7-7dce9349c906")
+		(property "Reference" "CH2"
+			(at 237.49 27.94 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "IM73D122V01XTMA1"
-			(at 143.51 60.96 0)
+		(property "Value" "SPK11R1LM4H-1"
+			(at 237.49 30.48 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "CivicAlert:IM73D122V01XTMA1"
-			(at 123.19 68.58 0)
+		(property "Footprint" "CivicAlert:SPK11R1LM4H-1"
+			(at 217.17 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,8 +5100,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IM73D122V01XTMA1"
-			(at 123.19 68.58 0)
+		(property "Datasheet" ""
+			(at 217.17 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5136,52 +5110,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IM73D122V01XTMA1"
-			(at 123.19 68.58 0)
+		(property "Description" "SPK11R1LM4H-1"
+			(at 217.17 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 123.19 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "IM73D122V01XTMA1"
-			(at 123.19 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "90b39849-eebd-4d31-8a14-c631a67c794c")
-		)
-		(pin "5"
-			(uuid "4ffd9505-37b5-450e-b22a-e8958ae92423")
 		)
 		(pin "4"
-			(uuid "dcb2f9c9-5e26-42e3-8ba4-021d262c643d")
+			(uuid "f2e3de06-dfe5-4105-ab47-f867284e59c9")
 		)
-		(pin "1"
-			(uuid "a628f890-da4a-4014-ace8-87fc61c4fcbf")
+		(pin "5"
+			(uuid "82b09530-b235-4893-abd1-152819e4e451")
+		)
+		(pin "3"
+			(uuid "e93b623e-cefa-4c01-b827-eefe5a90b87d")
 		)
 		(pin "2"
-			(uuid "f14cbe83-14c7-4dff-a2d8-ebd17b4716fe")
+			(uuid "eb8b6edd-b57c-46f5-a289-1b123de6defa")
+		)
+		(pin "1"
+			(uuid "4da02a32-23a3-4ead-bd21-83307c6aba13")
 		)
 		(instances
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
-					(reference "CH3")
+					(reference "CH2")
 					(unit 1)
 				)
 			)
@@ -5571,6 +5527,85 @@
 		)
 	)
 	(symbol
+		(lib_id "SPK11R1LM4H-1:SPK11R1LM4H-1")
+		(at 123.19 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e50dac9b-4a8f-4e04-9686-0c5cd2b8e0a8")
+		(property "Reference" "CH1"
+			(at 143.51 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "SPK11R1LM4H-1"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "CivicAlert:SPK11R1LM4H-1"
+			(at 123.19 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SPK11R1LM4H-1"
+			(at 123.19 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "079a3529-947b-4d5c-9dd9-18c8fbbad4df")
+		)
+		(pin "5"
+			(uuid "4c3d3f7b-5b7c-4e29-93f6-74de273d11ab")
+		)
+		(pin "3"
+			(uuid "fc812490-18a5-45ee-9b92-81b7a655026f")
+		)
+		(pin "2"
+			(uuid "c66a536a-d4d1-4d67-94c2-5492430b7b10")
+		)
+		(pin "1"
+			(uuid "0850768d-6a73-4219-8a4c-78dfaa3c0ad9")
+		)
+		(instances
+			(project ""
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
+					(reference "CH1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 46.99 156.21 270)
 		(unit 1)
@@ -5649,6 +5684,85 @@
 		)
 	)
 	(symbol
+		(lib_id "SPK11R1LM4H-1:SPK11R1LM4H-1")
+		(at 217.17 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0cacfe3-3271-4a6a-acd1-b2a54acef5e6")
+		(property "Reference" "CH4"
+			(at 237.49 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "SPK11R1LM4H-1"
+			(at 237.49 60.96 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "CivicAlert:SPK11R1LM4H-1"
+			(at 217.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SPK11R1LM4H-1"
+			(at 217.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "bfb2e2e3-3c50-420a-840a-4cdc0cf8186e")
+		)
+		(pin "5"
+			(uuid "3adb5c81-f102-4bc6-98b2-035efce2d197")
+		)
+		(pin "3"
+			(uuid "318b6c44-4978-49af-a026-8856d21be5b2")
+		)
+		(pin "2"
+			(uuid "9f90e72b-8bc1-470b-8acb-dfb92bb5f117")
+		)
+		(pin "1"
+			(uuid "31434500-64de-4be3-aaae-ce3a5f84602c")
+		)
+		(instances
+			(project "hw"
+				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
+					(reference "CH4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 116.84 40.64 90)
 		(mirror x)
@@ -5710,199 +5824,6 @@
 			(project "hw"
 				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
 					(reference "#PWR0182")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IM73D122V01XTMA1:IM73D122V01XTMA1")
-		(at 123.19 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f7ac4d92-6364-488d-9b49-54f5f54f279b")
-		(property "Reference" "CH1"
-			(at 143.51 27.94 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "IM73D122V01XTMA1"
-			(at 143.51 30.48 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "CivicAlert:IM73D122V01XTMA1"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "IM73D122V01XTMA1"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IM73D122V01XTMA1"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "IM73D122V01XTMA1"
-			(at 123.19 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "02b1b7e5-c2db-42d0-8496-1a6758421b20")
-		)
-		(pin "5"
-			(uuid "602c37a8-8550-456f-80cc-d4acdb98c403")
-		)
-		(pin "4"
-			(uuid "338a88f6-56f0-4fc8-b386-f5ff86fb605f")
-		)
-		(pin "1"
-			(uuid "2180da62-c5e0-4e22-8def-7a7dcde22ff5")
-		)
-		(pin "2"
-			(uuid "e29743eb-56e7-4a7e-a191-4fef85bf3a70")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
-					(reference "CH1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IM73D122V01XTMA1:IM73D122V01XTMA1")
-		(at 217.17 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f7c7a0db-c5f5-44c9-9a19-2f88f3276fb0")
-		(property "Reference" "CH2"
-			(at 237.49 27.94 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "IM73D122V01XTMA1"
-			(at 237.49 30.48 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "CivicAlert:IM73D122V01XTMA1"
-			(at 217.17 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "IM73D122V01XTMA1"
-			(at 217.17 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IM73D122V01XTMA1"
-			(at 217.17 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 217.17 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "IM73D122V01XTMA1"
-			(at 217.17 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "2672717d-1dea-41bd-a743-d05dab6add93")
-		)
-		(pin "5"
-			(uuid "c1de5ae6-9949-4390-95e2-933d58a8c7af")
-		)
-		(pin "4"
-			(uuid "25cd5445-de28-42c7-82a3-094622676784")
-		)
-		(pin "1"
-			(uuid "3b79412c-e18d-4a5f-b881-2bb69d5c802d")
-		)
-		(pin "2"
-			(uuid "849b6f6b-6f23-4071-9ce5-2b6beeee7597")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/100f165f-7348-4dd9-b954-0528a2efd933"
-					(reference "CH2")
 					(unit 1)
 				)
 			)

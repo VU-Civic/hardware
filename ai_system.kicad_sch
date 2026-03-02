@@ -4936,6 +4936,12 @@
 		(uuid "a4071e39-1464-4726-92c3-1267269cfb1e")
 	)
 	(junction
+		(at 33.02 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a86953ac-1e22-40af-ab4e-0f9d6c681ac8")
+	)
+	(junction
 		(at 113.03 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5499,6 +5505,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 116.84) (xy 33.02 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34748f78-7702-468a-837c-6bf340dcd6b0")
+	)
+	(wire
+		(pts
 			(xy 90.17 104.14) (xy 91.44 104.14)
 		)
 		(stroke
@@ -5506,6 +5522,16 @@
 			(type default)
 		)
 		(uuid "34a6c029-5328-40ec-981c-19a618f96333")
+	)
+	(wire
+		(pts
+			(xy 33.02 119.38) (xy 34.29 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34bf1081-8891-46a1-b336-b6ae54c28286")
 	)
 	(wire
 		(pts
@@ -5576,6 +5602,16 @@
 			(type default)
 		)
 		(uuid "40a71c4d-2b9b-42b2-aa6d-4b701615dab8")
+	)
+	(wire
+		(pts
+			(xy 34.29 116.84) (xy 33.02 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "431b55d1-eacb-4bbd-ab0a-7691f445ddc6")
 	)
 	(wire
 		(pts
@@ -5919,6 +5955,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 118.11) (xy 33.02 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8073c544-ab09-4ae3-9b93-8fe722a8000f")
+	)
+	(wire
+		(pts
 			(xy 90.17 96.52) (xy 95.25 96.52)
 		)
 		(stroke
@@ -6216,16 +6262,6 @@
 			(type default)
 		)
 		(uuid "bc9087e1-a285-47df-a318-8df46decd273")
-	)
-	(wire
-		(pts
-			(xy 31.75 116.84) (xy 34.29 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c25578b8-fbb4-4776-985e-064e501cb105")
 	)
 	(wire
 		(pts
@@ -6539,7 +6575,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 119.38) (xy 34.29 119.38)
+			(xy 31.75 118.11) (xy 33.02 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8998,73 +9034,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 31.75 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab00404d-6109-4713-911b-ec08f4137760")
-		(property "Reference" "#PWR0207"
-			(at 35.56 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC_MCU_1V8"
-			(at 28.956 116.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 31.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36958dd0-3abd-4e06-9732-9c6b35edb4df")
-		)
-		(instances
-			(project "hw"
-				(path "/37690768-e2be-4a37-b8f7-45d5da107609/848c734b-5721-4fc9-aed5-8e152bafb038"
-					(reference "#PWR0207")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 96.52 115.57 90)
 		(mirror x)
@@ -11191,7 +11160,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 31.75 119.38 270)
+		(at 31.75 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11200,7 +11169,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1a3b945-8314-4dff-b195-5868432b7424")
 		(property "Reference" "#PWR051"
-			(at 25.4 119.38 0)
+			(at 25.4 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11209,7 +11178,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 27.94 119.3799 90)
+			(at 27.94 118.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11219,7 +11188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 119.38 0)
+			(at 31.75 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11228,7 +11197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 119.38 0)
+			(at 31.75 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11237,7 +11206,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 119.38 0)
+			(at 31.75 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
